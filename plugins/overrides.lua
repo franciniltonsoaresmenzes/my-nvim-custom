@@ -26,6 +26,11 @@ M.nvimtree = {
   git = {
     enable = true,
   },
+  view = {
+    side = "left",
+    width = 40,
+    hide_root_folder = true,
+  },
 
   renderer = {
     highlight_git = true,

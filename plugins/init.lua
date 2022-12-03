@@ -92,12 +92,12 @@ return {
     end,
   },
 
-  -- autosave
-  ["Pocco81/auto-save.nvim"] = {
-    enabled = true,
-    opt = true,
-    execution_message = "AutoSave: save",
-  },
+  -- -- autosave
+  -- ["Pocco81/auto-save.nvim"] = {
+  --   enabled = true,
+  --   opt = true,
+  --   execution_message = "AutoSave: save",
+  -- },
 
   ["folke/zen-mode.nvim"] = {
     cmd = "ZenMode",
