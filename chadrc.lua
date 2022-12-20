@@ -10,7 +10,7 @@ M.plugins = require "custom.plugins"
 
 M.ui = {
   -- theme stuff
-theme = "ayu-dark",
+theme = "tokyodark",
   transparency = false,
   theme_toggle = { "everforest", "everforest_light" },
 

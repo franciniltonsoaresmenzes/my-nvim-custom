@@ -19,7 +19,7 @@ M.treesitter = {
 
 M.nvimtree = {
   filters = {
-    dotfiles = true,
+    dotfiles = false,
     custom = { "node_modules" },
   },
 
