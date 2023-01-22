@@ -3,6 +3,7 @@ local M = {}
 M.general = {
   n = {
     [";"] = { ":", "command mode", opts = { nowait = true } },
+    ["<C-x>"] = {"<cmd> EslintFixAll <CR>", "Eslint Fix All" },
   },
 
   i = {

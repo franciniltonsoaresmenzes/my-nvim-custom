@@ -195,6 +195,16 @@
     ],
     "description": "Either para melhorar o tratamento de erros",
     "scope": "typescript,typescriptreact,javascript,javascriptreact"
+  },
+  "Function ReactJS typescript": {
+    "prefix": "rfcee",
+    "body": [
+      "export function ${TM_FILENAME_BASE}() {",
+      "   return()",
+      "}"
+    ],
+    "description": "Create simple funciton in reactjs",
+    "scope": "typescript,typescriptreact,javascript,javascriptreact"
   }
 }
           
